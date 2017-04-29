@@ -6,4 +6,4 @@ A 3rd Year University Project by Elliot Dines.
 
 main_program holds malarian version 3. 
 
-Dependencies include Tensorflow, Keras, Pillow, OpenCV, Numpy.
+Dependencies include Tensorflow, Keras, OpenCV, and Numpy.
