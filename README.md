@@ -1,7 +1,10 @@
 # malarian
-3rd year project source code
 
-Elliot Dines - 1402811
+An automated system of diagnosing malaria from thin blood smears, using computer vision and machine learning. 
+
+A 3rd Year University Project. 
+by
+Elliot Dines.
 
 main_program holds malarian version 2. 
 
