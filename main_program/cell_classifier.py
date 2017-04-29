@@ -13,7 +13,7 @@ from PIL import Image
 img_width, img_height = 80,80
 num_epoch = 5
 activation_type = 'linear'
-save_loc = "../models/basic_cnn_"+activation_type+"_"+str(num_epoch)+"_epochs.h5"
+save_loc = "./basic_cnn_"+activation_type+"_"+str(num_epoch)+"_epochs.h5"
 
 
 def create_model():
