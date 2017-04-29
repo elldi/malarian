@@ -129,7 +129,6 @@ finalShow = cv2.imread(sys.argv[1])
 
 thres = otsu_gradient(im)
 
-
 ny ,nx = im.shape
 globY, globX = im.shape
 
@@ -169,8 +168,7 @@ for y in range(ny):
 						
 			clearArrays()
 			numOfPix = 0
-
-
+			
 if(args.save):
 	cv2.imwrite("malaria_output.png", finalShow)
 	cv2.imwrite("seg_output.png", colorThres)
