@@ -8,7 +8,6 @@ from keras import optimizers
 from keras.preprocessing import image
 from keras.applications.resnet50 import preprocess_input, decode_predictions
 from keras.models import load_model
-from PIL import Image
 
 img_width, img_height = 80,80
 num_epoch = 5
