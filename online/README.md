@@ -4,6 +4,7 @@ Converting my university dissertation project from a purely python application t
 
 ## Todo 
 * <del>Add a Flask overlay to the segmentation algorithm.</del>
-* Speed issues encountered with Python/Flask solution convert to Java to potentially resolve this.
+* <del>Speed issues encountered with Python/Flask solution convert to Java to potentially resolve this.</del>
+* Java OpenCV bindings are too much hassle, using C++ instead. 
 * Add in REST API CRUD operations. 
 
